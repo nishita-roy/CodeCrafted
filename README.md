@@ -5,6 +5,7 @@ Welcome to CodeCrafted, your go-to repository for meticulously crafted solutions
 ## About
 
 CodeCrafted is a project born out of a passion for algorithmic problem-solving and elegant coding. Each solution in this repository is an example of craftsmanship in code, with a focus on clarity, efficiency, and best practices. Whether you're a beginner looking to learn from well-structured solutions or an experienced developer seeking inspiration, you'll find something valuable here.
+Typescript
 
 ## Getting Started
 
