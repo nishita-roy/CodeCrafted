@@ -1,6 +1,6 @@
 # CodeCrafted: LeetCode Problems and Solutions
 
-Welcome to CodeCrafted, your go-to repository for meticulously crafted solutions to various LeetCode coding problems! Here, you'll find a collection of solutions that have been carefully designed and implemented to tackle a wide range of algorithmic challenges.
+Welcome to CodeCrafted, your go-to repository for meticulously crafted solutions to various LeetCode coding problems! Here, you'll find a collection of solutions that have been carefully designed and implemented to tackle a wide range of algorithmic challenges. Let's
 
 ## About
 
